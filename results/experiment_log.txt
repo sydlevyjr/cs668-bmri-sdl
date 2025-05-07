@@ -1,0 +1,7 @@
+Med-DDPM 3D Brain MRI Synthesis Experiment
+Started at: 2025-05-07 22:53:35
+Configuration:
+  - Model Type: med-ddpm
+  - Timesteps: 1000
+  - Epochs: 30
+  - Batch Size: 4

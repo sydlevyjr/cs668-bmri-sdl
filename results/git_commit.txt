@@ -1,0 +1,18 @@
+
+    Experiment: Med-DDPM for 3D Brain MRI Synthesis
+    
+    Configuration:
+    - Timesteps: 1000
+    - Epochs: 30
+    - Batch Size: 4
+    
+    This commit contains:
+    1. Implementation of Med-DDPM architecture with semantic conditioning
+    2. Custom training loop for the diffusion model
+    3. BraTS dataset loading and preprocessing
+    4. Sample generation and FID evaluation
+    5. Experiment logging and visualization
+    
+    Author: Sydney D. Levy Jr.
+    Date: 2025-05-07
+    
